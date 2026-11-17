@@ -1,8 +1,6 @@
-Here's a short and professional README for your GitHub repository.
 
-Writing
 
-# 🔍 Port Status Checker
+# Port Status Checker
 
 A Python-based TCP Port Status Checker developed using the `socket` library to identify open, closed, and filtered ports on a target host.
 
